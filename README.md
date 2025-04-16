@@ -22,6 +22,7 @@ Mon terrain de jeu ? La frontière entre la technologie et la créativité.
 | [EncoreUn](https://github.com/KilianDiama/Assistant-virtuel-pour-m-decins) | un projet V1 me prend une vingtaine de minute    | python |
 
 ---
+portfolio : https://github.com/KilianDiama/portfolio
 
 ## 🛠️ Stack actuelle
 
