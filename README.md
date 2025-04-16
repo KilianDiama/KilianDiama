@@ -18,8 +18,8 @@ Mon terrain de jeu ? La frontière entre la technologie et la créativité.
 | Projet            | Description courte                                                  | Techs |
 |------------------|----------------------------------------------------------------------|-------|
 | [RocketDroneEnv](https://github.com/KilianDiama/RocketDroneEnv) | Simu' de drone boostée au reinforcement learning. IA, dynamique de vol, perf. | Python, SB3 |
-| [Iluminia](#)        | Ajoute ici ton 2e bébé qui claque.                                  | Coder en Env et MDP Maitre |
-| [EncoreUn](#)              | Ce projet où t’as galéré mais t’en es sorti plus fort.             | TypeScript, Supabase |
+| [Iluminia](https://github.com/KilianDiama/Iluminia-VF)          | Coder en Env et MDP Maitre |
+| [EncoreUn](#)  un projet V1 me prend une vingtaine de minute    | python |
 
 ---
 
