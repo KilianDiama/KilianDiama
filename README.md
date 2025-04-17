@@ -19,7 +19,7 @@ Mon terrain de jeu ? La frontière entre la technologie et la créativité.
 |------------------|----------------------------------------------------------------------|-------|
 | [RocketDroneEnv](https://github.com/KilianDiama/RocketDroneEnv) | Simu' de drone boostée au reinforcement learning. IA, dynamique de vol, perf. | Python, SB3 |
 | [Iluminia](https://github.com/KilianDiama/Iluminia-VF)          | Coder en Env et MDP Maitre | python |
-| [EncoreUn](https://github.com/KilianDiama/Assistant-virtuel-pour-m-decins) | outils pour battir des empires    | python |
+| [Diamajax-utils](https://github.com/KilianDiama/Diamajax-utils) | outils pour battir des empires    | python |
 
 ---
 portfolio : https://github.com/KilianDiama/portfolio
